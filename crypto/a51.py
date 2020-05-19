@@ -67,3 +67,5 @@ for i in range(64):
     z.insert(0, c)
     
 print(outlist)
+
+#ㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎ 수고하세여 ^^ 
